@@ -15,6 +15,6 @@ window.onscroll = () =>{
 });*/
 
 AOS.init({
-   duration: 400,
-   delay: 200,
+   duration: 700, // 400
+   delay: 50, // 200
 });
